@@ -12,3 +12,6 @@
 ## Author
 
 (c) 2023, Nicolas Tallefourtane
+By Lucas 
+For Lucas 
+King o:o

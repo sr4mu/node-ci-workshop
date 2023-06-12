@@ -1,6 +1,10 @@
 #!/bin/bash
 
+
 echo " Salut c'est Neo , tu es actuellement dans la Matrice "
+
+echo "All your base are belong to us!"
+
 
 # Prepare container(s) and install dependencies
 docker-compose build;
